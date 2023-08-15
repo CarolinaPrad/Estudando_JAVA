@@ -1,3 +1,5 @@
+package aula2607;
+
 /*
  * Um programa JAVA, deve ter o nome bem definido
  * -- > Todo arquivo JAVA, deve ter uma estrutura prévia: classe.

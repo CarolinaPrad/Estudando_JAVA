@@ -1,3 +1,5 @@
+package aula2607;
+
 import javax.swing.*;
 
 public class PrimeiraVariavel {
